@@ -18,6 +18,15 @@
   <img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>
 </a>
 
+<!-- <hr>
+
+<a href="https://github.com/dangerrg">
+ 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dangerrg&theme=github_dark&show_icons=true&count_private=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangerrg&langs_count=8&theme=github_dark&layout=compact" />
+</a>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=bencolon&theme=github_dark&show_icons=true&count_private=true&hide_title=true" />
+ -->
   <hr>
 
 ### <img src="https://img.icons8.com/color/30/000000/maintenance.png"/> My Tech stack:
@@ -97,10 +106,23 @@
   <hr>
   <div>
     <a href="https://github.com/dangerrg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangerrg&theme=buefy&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangerrg&theme=buefy&layout=compact" />
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangerrg&theme=buefy&show_icons=true" /> -->
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangerrg&theme=github_dark&show_icons=true&count_private=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangerrg&theme=github_dark&layout=compact" />
     </a>
   </div>
+  </br>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangerrg&theme=buefy&layout=compact" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangerrg&theme=buefy&layout=compact&layout=compact" />
+      </br>
+    <a href="https://github.com/dangerrg/github-readme-stats">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangerrg&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/dangerrg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dangerrg" />
+</a> -->
+
   <!--
   <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="dangerrg" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script> -->
 
