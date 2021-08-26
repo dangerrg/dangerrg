@@ -70,7 +70,7 @@
 
   <hr>
 
-### Learning:
+### Experimenting with:
   <div>
     <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
@@ -88,7 +88,7 @@
 
   <hr>
 
-### Stuff I use:
+<!-- ### Stuff I use:
 
   <div>
     <img src="https://img.icons8.com/color/48/000000/notion.png"/>
@@ -102,13 +102,13 @@
     <img src="https://img.icons8.com/color/48/000000/jsfiddle.png"/>
   </div>
 
-  <hr>
-  <div>
+  <hr> -->
+<!--   <div>
     <a href="https://github.com/dangerrg">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangerrg&theme=github_dark&show_icons=true&count_private=true" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangerrg&theme=github_dark&layout=compact" />
     </a>
-  </div>
+  </div> -->
   </br>
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangerrg&theme=buefy&layout=compact" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangerrg&theme=buefy&layout=compact&layout=compact" />
