@@ -1,6 +1,6 @@
 # Hey there! <img src="https://media.giphy.com/media/Kf5R9AfnjvZmJW7URt/giphy.gif" height="30px">
 ## I'm Danger R. Gálvez
-## A Software enginner based in Switzerland & Code Mentor @epfl_exts [EPFL Extension School](https://www.extensionschool.ch/)
+## A Software Enginner based in Switzerland & Code Mentor @epfl_exts [EPFL Extension School](https://www.extensionschool.ch/)
 ### Where you can find me:
 <a href="https://twitter.com/dangerrg84" target="_blank" rel="noopener noreferrer" class="link">
   <img src="https://img.icons8.com/color/48/000000/twitter.png">
