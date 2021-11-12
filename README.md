@@ -76,17 +76,18 @@
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img src="https://img.icons8.com/color/48/000000/webpack.png"/>
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
   </div>
 
   <hr>
 
- ### Want to learn:
+<!--  ### Want to learn:
 
   <div>
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
   </div>
 
-  <hr>
+  <hr> -->
 
 <!-- ### Stuff I use:
 
